@@ -1,0 +1,10 @@
+.foodInput{
+    color: white;
+}
+
+.foodInput::placeholder{
+color: white;
+}
+.foodInput:focus{
+    color: white;
+}

@@ -1,0 +1,9 @@
+.main{
+    border: 1px #fff solid;
+    min-width: 300px;
+    max-width: 300px;
+    margin: 1.5rem;
+    padding: 10px;
+    border-radius: 10px;
+    
+}

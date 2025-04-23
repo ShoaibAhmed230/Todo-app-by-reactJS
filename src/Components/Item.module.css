@@ -1,0 +1,15 @@
+.item{
+  background-color: #222831;
+  justify-content: space-between;
+}
+.item-text {
+  color: antiquewhite;
+}
+.itemBtn{
+  padding: 0px 6px;
+    font-size: 13px;
+}
+
+.active{
+  background-color: rgb(176, 166, 186) !important;
+}
